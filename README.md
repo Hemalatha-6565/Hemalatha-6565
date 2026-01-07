@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hemalatha</h1>
-<h3 align="center">“I’m passionate about coding and solving challenging AI and Data Science problems.</h3>
+<h3 align="center">I’m passionate about coding and solving challenging AI and Data Science problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemalatha-656&label=Profile%20views&color=0e75b6&style=flat" alt="hemalatha-656" /> </p>
 
